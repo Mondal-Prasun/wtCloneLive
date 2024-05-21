@@ -99708,7 +99708,7 @@ if(A.MZ(new A.cn(n)).gqZ()==null)o=B.uO
 else{s=$.bg
 n=(s==null?$.bg=$.cX():s).dh(q)
 A.bA(n,o,!0)
-o=new A.lB(A.MZ(new A.cn(n)).gqZ().a.c.a.a,r)}return new A.BG(o,"Wtclone",p,r)}}
+o=new A.lB(A.MZ(new A.cn(n)).gqZ().a.c.a.a,r)}return new A.BG(o,"Chatwave",p,r)}}
 A.lB.prototype={
 am(){return new A.Gd(B.De,new A.ox(B.im,$.aE()),B.j)}}
 A.Gd.prototype={
